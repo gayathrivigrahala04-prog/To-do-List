@@ -1,5 +1,3 @@
-# To-do List 
-Persistent CLI TO-do List Application having features
 # To-Do List Application
 
 This project is a simple console-based To-Do List application developed using Python. The application allows users to manage their daily tasks through a Command-Line Interface (CLI). Users can add new tasks, view existing tasks, and remove completed tasks.
